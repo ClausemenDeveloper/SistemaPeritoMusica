@@ -84,7 +84,7 @@ musica("mos def", "sex, love & money", "hip hop", 2019, 77).
 musica("cassidy", "a.m. to p.m.", "hip hop", 2019, 52).
 musica("eric b. & rakim", "paid in full", "hip hop", 2019, 34).
 musica("t-pain", "look at her go (feat. chris brown)", "hip hop", 2019, 192).
-musica("$uicideboy$", "you're now tuning into 66.6 fm with dj rapture (the hottest hour of the evening)", "hip hop", 2019, 43).
+musica("$uicideboy$", "you're now tuning into 66.6 fm with dj rapture (the hottest hour of the evening)"), "hip hop", 2019, 43).
 musica("nas", "the message", "hip hop", 2019, 94).
 musica("nas", "the world is yours", "hip hop", 2019, 90).
 musica("nas", "it ain't hard to tell", "hip hop", 2019, 95).
@@ -105,3 +105,19 @@ musica("m.o.p.", "ante up (robbin hoodz theory)", "hip hop", 2019, 67).
 musica("nine", "whutcha want?", "hip hop", 2019, 77).
 musica("will smith", "switch", "hip hop", 2019, 67).
 musica("jeezy", "r.i.p.", "hip hop", 2019, 83).
+musica("kanye west", "power", "hip hop", 2019, 77).
+musica("kanye west", "stronger", "hip hop", 2019, 104).
+musica("kanye west", "runaway", "hip hop", 2019, 88).
+musica("kanye west", "all of the lights", "hip hop", 2019, 88). 
+musica("kanye west", "heartless", "hip hop", 2019, 88).
+musica("kanye west", "gold digger", "hip hop", 2019, 92).
+musica("kanye west", "jesus walks", "hip hop", 2019, 88).
+musica("kanye west", "flashing lights", "hip hop", 2019, 88).
+musica("kanye west", "black skinhead", "hip hop", 2019, 88).
+musica("kanye west", "fade", "hip hop", 2019, 88).
+musica("kanye west", "ultralight beam", "hip hop", 2019, 88).
+musica("kanye west", "touch the sky", "hip hop", 2019, 88).
+musica("kendrick lamar", "humble.", "hip hop", 2019, 85).
+musica("kendrick lamar", "alright", "hip hop", 2019, 85).
+musica("kendrick lamar", "i", "hip hop", 2019, 85).
+musica("kendrick lamar", "Squabble up
