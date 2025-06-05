@@ -7,155 +7,93 @@
 %% 4. BPM (batimentos por minuto)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-musica("queen", "bohemian rhapsody", "rock", 1975, 72).
-musica("ed sheeran", "Shape of You", "pop", 2017, 96).
-musica("nirvana", "smells like teen spirit", "rock", 1991, 117).
-musica("mark ronson ft. bruno mars", "uptown funk", "funk", 2014, 115).
-musica("the weeknd", "blinding lights", "pop", 2019, 171).
-musica("michael jackson", "billie jean", "pop", 1982, 117).
-musica("beatles", "hey jude", "rock", 1968, 72).
-musica("elvis presley", "jailhouse rock", "rock and roll", 1957, 90).
-musica("madonna", "like a virgin", "pop", 1984, 116).
-musica("led zeppelin", "stairway to heaven", "rock", 1971, 63).
-musica("pink floyd", "another brick in the wall", "rock", 1979, 104).
-musica("abba", "dancing queen", "pop", 1976, 100).
-musica("fleetwood mac", "go your own way", "rock", 1977, 108).
-musica("bee gees", "stayin' alive", "disco", 1977, 104).
-musica("ac/dc", "highway to hell", "rock", 1979, 116).
-musica("guns n' roses", "sweet child o' mine", "rock", 1987, 125).
-musica("whitney houston", "i will always love you", "r&b", 1992, 67).
-musica("backstreet boys", "i want it that way", "pop", 1999, 98).
-musica("eminem", "lose yourself", "hip hop", 2002, 171).
-musica("beyonce", "crazy in love", "r&b", 2003, 99).
-
-musica("mukesh", "mohabbat bhi jhoothi", "pop", 1950, 95).
-musica("frankie laine", "i believe", "pop", 1950, 51).
-musica("johnnie ray", "cry", "pop", 1950, 24).
-musica("pérez prado", "patricia", "pop", 1950, 54).
-musica("giorgos papadopoulos", "apopse eida oneiro", "pop", 1950, 48).
-musica("perry como", "round and round (with mitchell ayres and his orchestra & the ray charles singers)", "pop", 1950, 98).
-musica("freestyle", "opm medley: when i met you", "pop", 1950, 179).
-musica("johnny mathis", "it's not for me to say", "pop", 1950, 21).
-musica("stélios kazantzídis", "klapse me mana klapse me", "pop", 1950, 30).
-musica("stélios kazantzídis", "finito la mouzika", "pop", 1950, 61).
-musica("liva weel", "drømmer man om den, vågner..", "pop", 1951, 113).
-musica("the chordettes", "carolina moon", "pop", 1951, 38).
-musica("frankie laine", "necessary evil", "pop", 1951, 173).
-musica("ghantasala", "kanugona galano", "pop", 1951, 73).
-musica("les paul", "the carioca", "pop", 1951, 60).
-musica("les paul", "chicken reel", "pop", 1951, 199).
-musica("les paul", "blue skies", "pop", 1951, 43).
-musica("les paul", "dark eyes", "pop", 1951, 182).
-musica("asha bhosle", "kotha mukunda", "pop", 1952, 48).
-musica("asha bhosle", "awaz deta hai sola ka din", "pop", 1952, 148).
-musica("mohammed rafi", "jahan men log sachhe ashikon ko", "pop", 1952, 84).
-musica("ghantasala", "avanee nee pathi", "pop", 1952, 104).
-musica("ghantasala", "ee jagamantha natika", "pop", 1952, 41).
-musica("les paul", "smoke rings", "pop", 1952, 35).
-musica("mukesh", "hum tujhse mohabbat kar ke", "pop", 1952, 73).
-musica("lata mangeshkar", "paas nahin aaiye haath na lagaiye", "pop", 1952, 18).
-musica("lata mangeshkar", "main na janoon", "pop", 1952, 38).
-musica("asha bhosle", "gullyachi shapath", "pop", 1952, 127).
-musica("lata mangeshkar", "judai ki khabar hoti agar", "pop", 1952, 78).
-musica("lata mangeshkar", "maagata maagata janm gele", "pop", 1953, 52).
-musica("lata mangeshkar", "chupke chupke (from 'paying guest')", "pop", 1953, 32).
-musica("asha bhosle", "chahe kitna mujhe tum bulao ji", "pop", 1953, 15).
-musica("asha bhosle", "tu bol na bol", "pop", 1953, 79).
-musica("mukesh", "raat andheri door savera", "pop", 1953, 83).
-musica("ghantasala", "thunintha pin", "pop", 1953, 87).
-musica("les paul", "i'm sitting on top of the world", "pop", 1953, 31).
-musica("les paul", "the world is waiting for the sunrise", "pop", 1953, 25).
-musica("t. m. soundararajan", "ethanai periya", "pop", 2019, 28).
-musica("fabolous", "make u mine", "hip hop", 2019, 160).
-musica("fabolous", "bad bitch", "hip hop", 2019, 162).
-musica("jaydayoungan", "hop out", "hip hop", 2019, 137).
-musica("eazy-e", "no more ?'s", "hip hop", 2019, 90).
-musica("clipse", "mr. me too", "hip hop", 2019, 76).
-musica("dj muggs", "puppet master (feat. b real & dr. dre)", "hip hop", 2019, 166).
-musica("public enemy", "don't believe the hype", "hip hop", 2019, 100).
-musica("ghostface killah", "the champ", "hip hop", 2019, 90).
-musica("nappy roots", "sick & tired", "hip hop", 2019, 85).
-musica("aaliyah", "more than a woman", "hip hop", 2019, 33).
-musica("will smith", "men in black", "hip hop", 2019, 182).
-musica("denzel curry", "gook", "hip hop", 2019, 84).
-musica("french montana", "marble floors", "hip hop", 2019, 58).
-musica("kurtis blow", "basketball", "hip hop", 2019, 37).
-musica("mos def", "sex, love & money", "hip hop", 2019, 77).
-musica("cassidy", "a.m. to p.m.", "hip hop", 2019, 52).
-musica("eric b. & rakim", "paid in full", "hip hop", 2019, 34).
-musica("t-pain", "look at her go (feat. chris brown)", "hip hop", 2019, 192).
-musica("$uicideboy$", "you're now tuning into 66.6 fm with dj rapture (the hottest hour of the evening)"), "hip hop", 2019, 43).
-musica("nas", "the message", "hip hop", 2019, 94).
-musica("nas", "the world is yours", "hip hop", 2019, 90).
-musica("nas", "it ain't hard to tell", "hip hop", 2019, 95).
-musica("nas", "if i ruled the world (imagine that)", "hip hop", 2019, 95).
-musica("nas", "one mic", "hip hop", 2019, 90).
-musica("ghostface killah", "iron maiden", "hip hop", 2019, 115).
-musica("q-tip", "life is better", "hip hop", 2019, 36).
-musica("future", "tony montana", "hip hop", 2019, 60).
-musica("nappy roots", "blowin' trees", "hip hop", 2019, 74).
-musica("eazy-e", "eazy-duz-it", "hip hop", 2019, 78).
-musica("rakim", "when i b on tha mic", "hip hop", 2019, 58).
-musica("ja rule", "kill 'em all", "hip hop", 2019, 75).
-musica("nipsey hussle", "hussle in the house", "hip hop", 2019, 88).
-musica("nappy roots", "country boyz", "hip hop", 2019, 109).
-musica("the roots", "the seed (2.0)", "hip hop", 2019, 61).
-musica("mack 10", "10 million ways", "hip hop", 2019, 78).
-musica("m.o.p.", "ante up (robbin hoodz theory)", "hip hop", 2019, 67).
-musica("nine", "whutcha want?", "hip hop", 2019, 77).
-musica("will smith", "switch", "hip hop", 2019, 67).
-musica("jeezy", "r.i.p.", "hip hop", 2019, 83).
-musica("kanye west", "power", "hip hop", 2019, 77).
-musica("kanye west", "stronger", "hip hop", 2019, 104).
-musica("kanye west", "runaway", "hip hop", 2019, 88).
-musica("kanye west", "all of the lights", "hip hop", 2019, 88). 
-musica("kanye west", "heartless", "hip hop", 2019, 88).
-musica("kanye west", "gold digger", "hip hop", 2019, 92).
-musica("kanye west", "jesus walks", "hip hop", 2019, 88).
-musica("kanye west", "flashing lights", "hip hop", 2019, 88).
-musica("kanye west", "black skinhead", "hip hop", 2019, 88).
-musica("kanye west", "fade", "hip hop", 2019, 88).
-musica("kanye west", "ultralight beam", "hip hop", 2019, 88).
-musica("kanye west", "touch the sky", "hip hop", 2019, 88).
-musica("kendrick lamar", "humble.", "hip hop", 2019, 85).
-musica("kendrick lamar", "alright", "hip hop", 2019, 85).
-musica("kendrick lamar", "i", "hip hop", 2019, 85).
-musica("mukesh", "mohabbat bhi jhoothi", "pop", 1950, 95).
-musica("frankie laine", "i believe", "pop", 1950, 51).
-musica("johnnie ray", "cry", "pop", 1950, 24).
-musica("pérez prado", "patricia", "pop", 1950, 54).
-musica("giorgos papadopoulos", "apopse eida oneiro", "pop", 1950, 48).
-musica("perry como", "round and round (with mitchell ayres and his orchestra & the ray charles singers)", "pop", 1950, 98).
-musica("freestyle", "opm medley: when i met you", "pop", 1950, 179).
-musica("johnny mathis", "it's not for me to say", "pop", 1950, 21).
-musica("stélios kazantzídis", "klapse me mana klapse me", "pop", 1950, 30).
-musica("stélios kazantzídis", "finito la mouzika", "pop", 1950, 61).
-musica("liva weel", "drømmer man om den, vågner..", "pop", 1951, 113).
-musica("the chordettes", "carolina moon", "pop", 1951, 38).
-musica("frankie laine", "necessary evil", "pop", 1951, 173).
-musica("ghantasala", "kanugona galano", "pop", 1951, 73).
-musica("les paul", "the carioca", "pop", 1951, 60).
-musica("les paul", "chicken reel", "pop", 1951, 199).
-musica("les paul", "blue skies", "pop", 1951, 43).
-musica("les paul", "dark eyes", "pop", 1951, 182).
-musica("asha bhosle", "kotha mukunda", "pop", 1952, 48).
-musica("asha bhosle", "awaz deta hai sola ka din", "pop", 1952, 148).
-musica("mohammed rafi", "jahan men log sachhe ashikon ko", "pop", 1952, 84).
-musica("ghantasala", "avanee nee pathi", "pop", 1952, 104).
-musica("ghantasala", "ee jagamantha natika", "pop", 1952, 41).
-musica("les paul", "smoke rings", "pop", 1952, 35).
-musica("mukesh", "hum tujhse mohabbat kar ke", "pop", 1952, 73).
-musica("lata mangeshkar", "paas nahin aaiye haath na lagaiye", "pop", 1952, 18).
-musica("lata mangeshkar", "main na janoon", "pop", 1952, 38).
-musica("asha bhosle", "gullyachi shapath", "pop", 1952, 127).
-musica("lata mangeshkar", "judai ki khabar hoti agar", "pop", 1952, 78).
-musica("lata mangeshkar", "maagata maagata janm gele", "pop", 1953, 52).
-musica("lata mangeshkar", "chupke chupke (from ''paying guest'')", "pop", 1953, 32).
-musica("asha bhosle", "chahe kitna mujhe tum bulao ji", "pop", 1953, 15).
-musica("asha bhosle", "tu bol na bol", "pop", 1953, 79).
-musica("mukesh", "raat andheri door savera", "pop", 1953, 83).
-musica("ghantasala", "thunintha pin", "pop", 1953, 87).
-musica("les paul", "i'm sitting on top of the world", "pop", 1953, 31).
-musica("les paul", "the world is waiting for the sunrise", "pop", 1953, 25).
-musica("t. m. soundararajan", "ethanai periya", "pop", 1953, 74).
-musica("talat mahmood", "ansoo to nahin hai ankhon men", "pop", 1953, 104).
+musica(queen, bohemian_rhapsody, rock, 1975, 72).
+musica(ed_sheeran, shape_of_you, pop, 2017, 96).
+musica(nirvana, smells_like_teen_spirit, rock, 1991, 117).
+musica(mark_ronson_ft_bruno_mars, uptown_funk, funk, 2014, 115).
+musica(the_weeknd, blinding_lights, pop, 2019, 171).
+musica(michael_jackson, billie_jean, pop, 1982, 117).
+musica(beatles, hey_jude, rock, 1968, 72).
+musica(elvis_presley, jailhouse_rock, rock, 1957, 90).
+musica(madonna, like_a_virgin, pop, 1984, 116).
+musica(led_zeppelin, stairway_to_heaven, rock, 1971, 63).
+musica(pink_floyd, another_brick_in_the_wall, rock, 1979, 104).
+musica(abba, dancing_queen, pop, 1976, 100).
+musica(fleetwood_mac, go_your_own_way, rock, 1977, 108).
+musica(bee_gees, stayin_alive, disco, 1977, 104).
+musica(ac/dc, highway_to_hell, rock, 1979, 116).
+musica(guns_n_roses, sweet_child_o_mine, rock, 1987, 125).
+musica(whitney_houston, i_will_always_love_you, rb, 1992, 67).
+musica(backstreet_boys, i_want_it_that_way, pop, 1999, 98).
+musica(eminem, lose_yourself, hiphop, 2002, 171).
+musica(beyonce, crazy_in_love, rb, 2003, 99).
+musica(gorillaz, feel_good_inc, rock, 2005, 138).
+musica(gorillaz, rhinestone_eyes, rock, 2010, 92).
+musica(gorillaz, new_gold, rock, 2022, 108).
+musica(gorillaz, on_melancholy_hill, rock, 2010, 120).
+musica(gorillaz, clint_eastwood, rock, 2001, 167).
+musica(gorillaz, dare, rock, 2005, 120).
+musica(gorillaz, new_gold_remix, rock, 2022, 127).
+musica(gorillaz, shes_my_collar, rock, 2017, 140).
+musica(gorillaz, cracker_island, rock, 2022, 120).
+musica(gorillaz, dirty_harry, rock, 2005, 192).
+musica(red_hot_chili_peppers, californication, rock, 1999, 96).
+musica(red_hot_chili_peppers, under_the_bridge, rock, 1991, 84).
+musica(red_hot_chili_peppers, cant_stop, rock, 2002, 91).
+musica(red_hot_chili_peppers, scar_tissue, rock, 1999, 88).
+musica(red_hot_chili_peppers, otherside, rock, 2000, 123).
+musica(red_hot_chili_peppers, snow, rock, 2006, 104).
+musica(red_hot_chili_peppers, dani_california, rock, 2006, 96).
+musica(red_hot_chili_peppers, by_the_way, rock, 2002, 122).
+musica(red_hot_chili_peppers, give_it_away, rock, 1991, 91).
+musica(red_hot_chili_peppers, dark_necessities, rock, 2016, 91).
+musica(metallica, enter_sandman, metal, 1991, 123).
+musica(metallica, nothing_else_matters, metal, 1991, 142).
+musica(metallica, master_of_puppets, metal, 1986, 105).
+musica(metallica, whiskey_in_the_jar, metal, 1998, 132).
+musica(metallica, the_unforgiven, metal, 1991, 139).
+musica(metallica, one, metal, 1988, 103).
+musica(metallica, for_whom_the_bell_tolls, metal, 1984, 117).
+musica(metallica, lux_aeterna, metal, 2022, 130).
+musica(metallica, sad_but_true, metal, 1991, 89).
+musica(metallica, screaming_suicide, metal, 2023, 101).
+musica(coldplay, yellow, pop, 2000, 173).
+musica(coldplay, viva_la_vida, pop, 2008, 138).
+musica(coldplay, sparks, pop, 2000, 102).
+musica(coldplay, something_just_like_this, pop, 2017, 103).
+musica(coldplay, the_scientist, pop, 2002, 146).
+musica(coldplay, a_sky_full_of_stars, pop, 2014, 124).
+musica(coldplay, paradise, pop, 2011, 139).
+musica(coldplay, hymn_for_the_weekend, pop, 2015, 90).
+musica(coldplay, my_universe, pop, 2021, 105).
+musica(coldplay, fix_you, pop, 2005, 138).
+musica(daft_punk, get_lucky, eletronic, 2013, 116).
+musica(daft_punk, one_more_time, eletronic, 2001, 122).
+musica(daft_punk, instant_crush, eletronic, 2013, 109).
+musica(daft_punk, around_the_world, eletronic, 1997, 121).
+musica(daft_punk, harder_better_faster_stronger, eletronic, 2001, 123).
+musica(daft_punk, something_about_us, eletronic, 2001, 99).
+musica(daft_punk, lose_yourself_to_dance, eletronic, 2013, 100).
+musica(daft_punk, veridis_quo, eletronic, 2001, 106).
+musica(daft_punk, digital_love, eletronic, 2001, 124).
+musica(linkin_park, in_the_end, rock, 2000, 105).
+musica(linkin_park, numb, rock, 2003, 110).
+musica(linkin_park, what_ive_done, rock, 2007, 120).
+musica(linkin_park, numb_encore, rock, 2004, 107).
+musica(linkin_park, one_step_closer, rock, 2000, 95).
+musica(linkin_park, faint, rock, 2003, 135).
+musica(linkin_park, bleed_it_out, rock, 2007, 140).
+musica(linkin_park, papercut, rock, 2000, 150).
+musica(linkin_park, crawling, rock, 2000, 105).
+musica(linkin_park, burn_it_down, rock, 2012, 110).
+musica(radiohead, creep, rock, 1993, 91).
+musica(radiohead, no_surprises, rock, 1997, 76).
+musica(radiohead, karma_police, rock, 1997, 74).
+musica(radiohead, high_and_dry, rock, 1995, 87).
+musica(radiohead, exit_music, rock, 1997, 121).
+musica(radiohead, weird_fishes, rock, 2007, 152).
+musica(radiohead, jigsaw_falling_into_place, rock, 2007, 165).
+musica(radiohead, fake_plastic_trees, rock, 1995, 73).
+musica(radiohead, just, rock, 1995, 175).
+musica(radiohead, nude, rock, 2007, 128).
+musica(ac_dc, highway_to_hell, rock, 1979, 115).
