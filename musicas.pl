@@ -120,4 +120,42 @@ musica("kanye west", "touch the sky", "hip hop", 2019, 88).
 musica("kendrick lamar", "humble.", "hip hop", 2019, 85).
 musica("kendrick lamar", "alright", "hip hop", 2019, 85).
 musica("kendrick lamar", "i", "hip hop", 2019, 85).
-musica("kendrick lamar", "Squabble up
+musica("mukesh", "mohabbat bhi jhoothi", "pop", 1950, 95).
+musica("frankie laine", "i believe", "pop", 1950, 51).
+musica("johnnie ray", "cry", "pop", 1950, 24).
+musica("pérez prado", "patricia", "pop", 1950, 54).
+musica("giorgos papadopoulos", "apopse eida oneiro", "pop", 1950, 48).
+musica("perry como", "round and round (with mitchell ayres and his orchestra & the ray charles singers)", "pop", 1950, 98).
+musica("freestyle", "opm medley: when i met you", "pop", 1950, 179).
+musica("johnny mathis", "it's not for me to say", "pop", 1950, 21).
+musica("stélios kazantzídis", "klapse me mana klapse me", "pop", 1950, 30).
+musica("stélios kazantzídis", "finito la mouzika", "pop", 1950, 61).
+musica("liva weel", "drømmer man om den, vågner..", "pop", 1951, 113).
+musica("the chordettes", "carolina moon", "pop", 1951, 38).
+musica("frankie laine", "necessary evil", "pop", 1951, 173).
+musica("ghantasala", "kanugona galano", "pop", 1951, 73).
+musica("les paul", "the carioca", "pop", 1951, 60).
+musica("les paul", "chicken reel", "pop", 1951, 199).
+musica("les paul", "blue skies", "pop", 1951, 43).
+musica("les paul", "dark eyes", "pop", 1951, 182).
+musica("asha bhosle", "kotha mukunda", "pop", 1952, 48).
+musica("asha bhosle", "awaz deta hai sola ka din", "pop", 1952, 148).
+musica("mohammed rafi", "jahan men log sachhe ashikon ko", "pop", 1952, 84).
+musica("ghantasala", "avanee nee pathi", "pop", 1952, 104).
+musica("ghantasala", "ee jagamantha natika", "pop", 1952, 41).
+musica("les paul", "smoke rings", "pop", 1952, 35).
+musica("mukesh", "hum tujhse mohabbat kar ke", "pop", 1952, 73).
+musica("lata mangeshkar", "paas nahin aaiye haath na lagaiye", "pop", 1952, 18).
+musica("lata mangeshkar", "main na janoon", "pop", 1952, 38).
+musica("asha bhosle", "gullyachi shapath", "pop", 1952, 127).
+musica("lata mangeshkar", "judai ki khabar hoti agar", "pop", 1952, 78).
+musica("lata mangeshkar", "maagata maagata janm gele", "pop", 1953, 52).
+musica("lata mangeshkar", "chupke chupke (from ''paying guest'')", "pop", 1953, 32).
+musica("asha bhosle", "chahe kitna mujhe tum bulao ji", "pop", 1953, 15).
+musica("asha bhosle", "tu bol na bol", "pop", 1953, 79).
+musica("mukesh", "raat andheri door savera", "pop", 1953, 83).
+musica("ghantasala", "thunintha pin", "pop", 1953, 87).
+musica("les paul", "i'm sitting on top of the world", "pop", 1953, 31).
+musica("les paul", "the world is waiting for the sunrise", "pop", 1953, 25).
+musica("t. m. soundararajan", "ethanai periya", "pop", 1953, 74).
+musica("talat mahmood", "ansoo to nahin hai ankhon men", "pop", 1953, 104).
