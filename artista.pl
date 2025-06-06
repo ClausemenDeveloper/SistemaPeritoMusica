@@ -9,7 +9,7 @@
 
 %% Regras para questionar o utilizador
 titulo(X) :- questiona(titulo, X).
-genero(X) :- questiona(genero, X, [rock, pop, funk, jazz, eletronic, hiphop, metal, rb]).
+genero(X) :- questiona(genero, X, [pop, rock, funk, dance, electronic, hiphop, metal, acoustic, reggaeton]).
 ano(X) :- questiona(ano, X).
 bpm(X) :- questiona(bpm, X).
 
