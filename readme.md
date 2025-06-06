@@ -1,5 +1,9 @@
 # Sistema Pericial para Identificação de Artistas Musicais
 
+## membros do Grupo
+- 48736
+- 53269
+
 Este projeto implementa um sistema pericial simples em Prolog para identificar artistas musicais com base em informações fornecidas pelo usuário. O sistema utiliza uma base de conhecimento com músicas, artistas, gêneros, ano de lançamento e BPM (batimentos por minuto).
 
 ## Estrutura do Projeto
@@ -32,3 +36,16 @@ Este projeto implementa um sistema pericial simples em Prolog para identificar a
 ## Objetivo
 
 O objetivo deste trabalho é demonstrar a aplicação de sistemas periciais utilizando Prolog, com foco em raciocínio baseado em regras e interação com o usuário para resolução de problemas no domínio musical.
+
+## Como usar
+
+- swipl
+- [perito,artista].
+- perito. 
+- 1. 
+- musicas. 
+- 2. 
+- "titulo". 
+- genero. 
+- ano. 
+- bpm.
