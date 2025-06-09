@@ -12,7 +12,7 @@ Este projeto implementa um sistema pericial simples em Prolog para identificar a
 - **musicas.pl**: Base de conhecimento com registros de músicas, artistas, gêneros, anos e BPM.
 - **perito.pl**: Implementa o shell do sistema pericial, permitindo carregar a base de conhecimento, interagir com o usuário e buscar soluções.
 - **tcc_ceds_music.csv**: Arquivo de dados (não utilizado diretamente pelo sistema Prolog).
-- **readme.md**: Este arquivo de documentação.
+
 
 ## Como Funciona
 
